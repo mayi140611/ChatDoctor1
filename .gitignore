@@ -2,9 +2,4 @@
 *-checkpoint.ipynb
 *-checkpoint.py
 *-checkpoint.md
-data/GenMedGPT-5k.json
-data/HealthCareMagic-100k_v0_1.json
-data/HealthCareMagic-100k_v0_2.json
-data/HealthCareMagic-100k.json
-data/iCliniq.json
-data/HealthCareMagic-100k_v0_2_train_ff.json
+data/
